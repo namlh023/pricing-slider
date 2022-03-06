@@ -213,3 +213,43 @@ body {
     transform: translateX(1rem);
   }
 }
+
+@media (min-width: 90em) {
+  .p-cta {
+    max-width: unset;
+  }
+
+  .price-card {
+    padding: 3rem 3rem;
+
+    .slider {
+      flex-direction: row;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      input {
+        order: 3;
+      }
+    }
+
+    .features {
+      .feature {
+        justify-content: flex-start;
+      }
+    }
+
+    .bill {
+      margin: 2rem 0;
+
+      .discount::after {
+        content: " discount";
+      }
+    }
+
+    .footer-cta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+}

@@ -72,12 +72,14 @@ function App() {
           <span className="discount">-25%</span>
         </div>
         <div className="divider"></div>
-        <ul className="features">
-          <li className="p-like feature">Unlimited websites</li>
-          <li className="p-like feature">100% data ownership</li>
-          <li className="p-like feature">Email reports</li>
-        </ul>
-        <button className="p-like btn">Start my trial</button>
+        <div className="footer-cta">
+          <ul className="features">
+            <li className="p-like feature">Unlimited websites</li>
+            <li className="p-like feature">100% data ownership</li>
+            <li className="p-like feature">Email reports</li>
+          </ul>
+          <button className="p-like btn">Start my trial</button>
+        </div>
       </div>
     </div>
   );
