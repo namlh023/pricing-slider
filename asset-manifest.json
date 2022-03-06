@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pricing-slider/static/css/main.0063ac59.css",
+    "main.js": "/pricing-slider/static/js/main.f757fee1.js",
+    "static/js/787.de79e1e1.chunk.js": "/pricing-slider/static/js/787.de79e1e1.chunk.js",
+    "index.html": "/pricing-slider/index.html",
+    "static/media/icon-slider.svg": "/pricing-slider/static/media/icon-slider.cbca35e0d11c560ba351.svg",
+    "static/media/pattern-circles.svg": "/pricing-slider/static/media/pattern-circles.9f6ed14bb3b0084b05a9.svg",
+    "static/media/bg-pattern.svg": "/pricing-slider/static/media/bg-pattern.76d3fa7ddce078ad96b5.svg",
+    "static/media/icon-check.svg": "/pricing-slider/static/media/icon-check.83c38a48815855ecc2d7.svg",
+    "main.0063ac59.css.map": "/pricing-slider/static/css/main.0063ac59.css.map",
+    "main.f757fee1.js.map": "/pricing-slider/static/js/main.f757fee1.js.map",
+    "787.de79e1e1.chunk.js.map": "/pricing-slider/static/js/787.de79e1e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0063ac59.css",
+    "static/js/main.f757fee1.js"
+  ]
+}
